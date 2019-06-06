@@ -2,4 +2,4 @@
 
 # Présentation du projet
 
-**Une autre info**
+__Une autre info__
