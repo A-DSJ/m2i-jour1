@@ -19,10 +19,4 @@ On sait depuis longtemps que travailler avec du texte lisible et contenant du se
 C1
 C2
 C3
-<<<<<<< HEAD
 C4
-C5
-C6
-=======
-C4
->>>>>>> b31c212... C4
